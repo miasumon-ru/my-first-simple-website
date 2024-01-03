@@ -2,4 +2,9 @@ div{
     background-color: aquamarine;
     padding: 10px;
     margin-bottom: 10px;
+    border-radius: 10px;
+}
+h3{
+    text-align: center;
+    color: rgb(210, 117, 4);
 }
